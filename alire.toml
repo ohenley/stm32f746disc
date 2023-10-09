@@ -1,0 +1,11 @@
+name = "stm32f746disco"
+description = "Shiny new project"
+version = "0.1.0-dev"
+
+authors = ["Olivier Henley"]
+maintainers = ["Olivier Henley <olivier.henley@gmail.com>"]
+maintainers-logins = ["ohenley"]
+
+[[depends-on]]
+stm32_devices = "0.1.0-dev"
+embedded_components = "0.2.0"
